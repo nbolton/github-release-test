@@ -1,3 +1,3 @@
 # github-release-test
 
-Test
+Hello world
